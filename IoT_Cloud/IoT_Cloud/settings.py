@@ -46,6 +46,8 @@ INSTALLED_APPS = [
     'drf_spectacular_sidecar',
     # Local
     "accounts",
+    "projects",
+    "devices",
 ]
 
 MIDDLEWARE = [
